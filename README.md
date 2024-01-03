@@ -1,3 +1,3 @@
 # bookbot
 
-first commit in readme
+My first git project
